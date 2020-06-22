@@ -1,0 +1,75 @@
+{
+"profiles":[
+{
+"basics":{
+"name":"prasanthi kotagiri",
+"role":"Student",
+"email":"prasanthi.kotagiri29@gmail.com",
+"mobile":"28784832759",
+"gender":"female",
+"address":"mylavaram,Andhra pradesh"
+
+},
+"summery":[
+    "studying cse in lbrce ",
+    "Having knowledge on Python, c"
+
+],
+"education":[
+{
+                    "degree":"B-Tech (Computer Science and Engineering)",
+                    "institute":"Lakireddy balireddy College of Engineering",
+                    "result":"90%"
+},
+{
+                    "degree":"Intermediate in MPC",
+                    "institute":"Sri Chaitanya Junior College",
+                    "result":"95%"
+},
+{
+                    "degree":"S.S.C",
+                    "institute":"sri chaitanya techno school",
+                    "result":"90%"
+}
+
+
+]
+},
+   {
+    "basics":{
+"name":"srija",
+"role":"Student",
+"email":"srija@gmail.com",
+"mobile":"326666666669",
+"gender":"female",
+"address":"vijayawada,Andhra pradesh"
+
+},
+"summery":[
+    "studying cse in lbrce",
+    "Having knowledge on Python, C"
+
+],
+"education":[
+{
+                    "degree":"B-Tech (Computer Science and Engineering)",
+                    "institute":"Lakireddy balireddy College of Engineering",
+                    "result":"95%"
+},
+{
+                    "degree":"Intermediate in MPC",
+                    "institute":"Sri Chaitanya Junior College",
+                    "result":"90%"
+},
+{
+                    "degree":"S.S.C",
+                    "institute":"sri chaitanya techno school",
+                    "result":"92%"
+}
+
+
+]
+   }
+
+]
+}
